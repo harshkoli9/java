@@ -45,7 +45,7 @@ students = {
     "Ayush Mhaskar"=>90,
     "Harsh Koli"=>95,
     "Harsh Chavan"=>99,
-    "Harsh Bhagat'=>95,
+    "Harsh Bhagat"=>95,
     "Arya Kadam"=>100,
     "Vighnesh Berde"=>100
 }
